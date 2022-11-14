@@ -7,11 +7,11 @@ const posts = require('../controllers/posts.controllers.js');
 // Example:
 // router.get('/posts', posts.list)
 
-router.post('/posts', posts.create);
-router.get('/posts', posts.list);
-router.get('/posts/:id', posts.get);
-router.patch('/posts/:id', posts.update);
-router.delete('/posts/:id', posts.delete);
+router.post('/', posts.create);
+router.get('/', posts.list);
+router.get('/:id', posts.get);
+router.patch('/:id', posts.update);
+router.delete('/:id', posts.delete);
 
 
 
