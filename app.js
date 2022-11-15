@@ -16,10 +16,10 @@ app.use(logger('dev'));
 app.use(express.json());
 
 /** Routes */
-const routes = require('./config/posts.config');
-const users = require('./config/users.config');
-app.use('/api/posts', routes);
-app.use('/api/users', users);
+const routes = require('./config/routes.config');
+
+app.use('/api', routes);
+
 
 
 /** Error Handling */
