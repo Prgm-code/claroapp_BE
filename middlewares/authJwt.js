@@ -8,7 +8,7 @@ const { verify } = require( 'jsonwebtoken');
 
  const verifyToken = async (req, res, next) => {
     try {
-        console.log(req.headers.authorization);
+        if(!req.headers.authorization) return next(createError(401,'unauthorized request'));
         const token = req.headers.authorization.split(' ')[1];
         
         const decoded = verify(token, 'process.env.JWT_SECRET');

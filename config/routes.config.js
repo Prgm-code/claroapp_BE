@@ -10,8 +10,8 @@ const { verifyToken } = require('../middlewares/authJwt.js');
 // router.get('/posts', posts.list)
 
 router.post('/posts',[ verifyToken, posts.create]);
-router.get('/posts', posts.list);
-router.get('/posts/:id', posts.get);
+router.get('/posts',[verifyToken , posts.list]);
+router.get('/posts/:id',[verifyToken, posts.get]);
 router.patch('/posts/:id',[ verifyToken, posts.update]);
 router.delete('/posts/:id',[ verifyToken, posts.delete]);
 
