@@ -11,6 +11,16 @@ const userSchema = new Schema({
         required: "name is required",
 
     },
+    admin: {
+        type: Boolean,
+        default: false
+    },
+    valid: {
+        type: Boolean,
+        default: false
+
+    },
+
     email: {
         type: String,
         required: "email is required",
@@ -22,31 +32,31 @@ const userSchema = new Schema({
 
 
     password: {
-    type: String,
-    required: "password is required",
-    minlength: 8,
-    trim: true,
-    match: [PASSWORD_PATTERN, "password is invalid"]
+        type: String,
+        required: "password is required",
+        minlength: 8,
+        trim: true,
+        match: [PASSWORD_PATTERN, "password is invalid"]
     },
 
     bio: {
-    type: String,
-},
+        type: String,
+    },
     active: {
-    type: Boolean,
-    default: false,
-},
+        type: Boolean,
+        default: false,
+    },
 
 }, {
     timestamps: true,
-        toJSON: {
+    toJSON: {
         virtuals: true,
-            transform: (doc, ret) => {
-                delete ret._id;
-                delete ret.__v;
-                delete ret.password;
-                return ret;
-            }
+        transform: (doc, ret) => {
+            delete ret._id;
+            delete ret.__v;
+            delete ret.password;
+            return ret;
+        }
     },
     toObject: {
 
