@@ -25,7 +25,7 @@ const verifyToken = async (req, res, next) => {
         const decoded = verify(token, process.env.JWT_SECRET);
 
         req.userId = decoded.sub;
-        const user = await User.findOne({_id:req.userId, valid: true});
+        const user = await User.findOne({_id:req.userId, active: true});
         console.log(user);
         req.user = user;
         if (!user) return next(createError(401));

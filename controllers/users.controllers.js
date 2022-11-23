@@ -15,17 +15,14 @@ const users = {
             const newUser = await User.findById(id);
 
             if (!newUser) return next(createError(404, 'user not found'));
-            if (newUser.valid) return next(createError(400, 'user already validated'));
+            if (newUser.active) return next(createError(400, 'user already validated'));
 
             const user = await User
                 .findByIdAndUpdate(
                     id,
-                    { valid: true },
+                    { active: true },
                     { new: true }
                 );
-
-
-
 
             console.log(user)
 
@@ -33,13 +30,15 @@ const users = {
             //redirect to login
             // res.redirect('http://localhost:3000/login');
         } catch (error) {
+            console.log(error);
             next(createError(400, 'bad request'));
+
         }
     },
 
 
     signup: (req, res, next) => {
-        const user = new User({ ...req.body, valid: false });
+        const user = new User({ ...req.body, active: false });
 
         user.save()
             .then(user => {
