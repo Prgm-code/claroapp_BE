@@ -27,8 +27,7 @@ const users = {
             console.log(user)
 
             res.send('<h1>Account validated</h1>');
-            //redirect to login
-            // res.redirect('http://localhost:3000/login');
+         
         } catch (error) {
             console.log(error);
             next(createError(400, 'bad request'));
@@ -74,6 +73,7 @@ const users = {
                                     { sub: user._id, exp: Date.now() / 1000 * 3600 },
                                     process.env.JWT_SECRET);
                                 console.log(token);
+
 
                                 res.status(200).json(token);
 
