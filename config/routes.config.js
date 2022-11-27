@@ -24,11 +24,11 @@ router.post('/users/login', users.login);
 router.get('/users/:id/validate', users.validate);
 
 //sites&keysList
-router.get('/sites', sites.listSites);
-router.get('/sites/:id', sites.findSite);
-router.post('/sites', sites.createSite);
-router.patch('/sites/:id', sites.updateSite);
-router.delete('/sites/:id', sites.deleteSite);
+router.get('/sites',verifyToken,  sites.listSites);
+router.get('/sites/:id',verifyToken,  sites.findSite);
+router.post('/sites',verifyToken,  sites.createSite);
+router.patch('/sites/:id',verifyToken,  sites.updateSite);
+router.delete('/sites/:id',verifyToken,  sites.deleteSite);
 
 
 

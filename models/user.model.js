@@ -11,10 +11,8 @@ const userSchema = new Schema({
         required: "name is required",
 
     },
-    admin: {
-        type: Boolean,
-        default: false
-    },
+  
+
     valid: {
         type: Boolean,
         default: false
@@ -41,11 +39,16 @@ const userSchema = new Schema({
 
     bio: {
         type: String,
+        default: ''
     },
     active: {
         type: Boolean,
         default: false,
     },
+    roles: [{
+        ref:"Role",
+        type: Schema.Types.ObjectId
+    }]
 
 }, {
     timestamps: true,

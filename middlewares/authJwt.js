@@ -1,5 +1,8 @@
 const dotenv = require('dotenv');
 dotenv.config();
+const ROLES = ["user","userlloo", "admin", "moderator"];
+
+
 
 
 const User = require('../models/user.model.js');
@@ -33,7 +36,7 @@ const verifyToken = async (req, res, next) => {
     } catch (error) {
         console.log(error);
 
-        next(createError(error));
+        next(createError(401, error));
     }
 };
 

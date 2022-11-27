@@ -13,34 +13,41 @@ const siteSchema = new Schema({
     },
     clave: {
         type: String,
+        default: ''
 
 
     },
     direccion: {
         type: String,
+        default: '',
 
         minlength: 3,
     },
     comuna: {
         type: String,
+        default: ''
 
 
     },
 
     numeroCliente: {
         type: String,
+        default: ''
 
     },
     empresaElectrica: {
         type: String,
+        default: ''
 
     },
     potencia: {
 
         type: String,
+        default: ''
     },
     tipo: {
         type: String,// LLOO700 LLOO2600 normal 
+
 
     },
     IC1: {
@@ -48,7 +55,9 @@ const siteSchema = new Schema({
         default: false,
     },
     energia: {
-        type: Object
+        type: Object,
+        
+        
     },
     transmision: {   
         type: Object

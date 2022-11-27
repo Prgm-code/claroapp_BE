@@ -6,10 +6,13 @@ const logger = require('morgan');
 const mongoose = require('mongoose');
 
 require('./config/db.config');
+const { createRoles } = require ('./bin/initialSetup.js');
 
 
 
 const app = express();
+
+createRoles();
 
 /** Middlewares */
 app.use(logger('dev'));

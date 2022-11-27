@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken');
 const createError = require('http-errors');
 const transporter = require('../config/mail.config.js');
 const dotenv = require('dotenv');
+const Role = require('../models/role.model.js');
 dotenv.config();
 
 
@@ -20,13 +21,16 @@ const users = {
             const user = await User
                 .findByIdAndUpdate(
                     id,
-                    { active: true },
+                    { valid:true , active: true },
                     { new: true }
                 );
 
             console.log(user)
 
-            res.send('<h1>Account validated</h1>');
+            res.send(`<h1>Cuenta Validada/h1>
+             <p>Ya puedes iniciar sesión</p> 
+             <a href="https://gestionsitios.hardpro.store/login">Iniciar Sesión</a>
+             `);
          
         } catch (error) {
             console.log(error);
@@ -36,20 +40,39 @@ const users = {
     },
 
 
-    signup: (req, res, next) => {
-        const user = new User({ ...req.body, active: false });
+    signup: async (req, res, next) =>  {
+        
 
-        user.save()
+        const { email ,password , name, roles } = req.body;
+        
+        const newUser = new User({ email, password, name, valid:false });
+        if (User.find({email:email})) {
+                return next(createError(400, 'user already exists'));
+            }
+
+
+        if (roles) {
+            const foundRoles = await Role.find({ name: { $in: roles } });
+            newUser.roles = foundRoles.map(role => role._id);
+        } else {
+            const role = await Role.findOne({ name: "user" });
+            newUser.roles = [role._id];
+        }
+
+        
+
+
+         newUser.save()
             .then(user => {
 
                 res.status(201).json(user)
                 transporter.sendMail({
-                    from: 'System Validation <system.noreply@prgm.info>',
+                    from: 'Validacion de Cuentas <system.noreply@prgm.info>',
                     to: req.body.email,
-                    subject: 'User Validation',
-                    text: `Click on the link to validate your account ${process.env.URL}/api/users/${user._id}/validate`,
+                    subject: 'Validación de cuenta',
+                    text: `Hacer Click en el Link para Validar la Cuenta ${process.env.URL}/api/users/${user._id}/validate`,
                     html: `
-                    <h1>Click on the link to validate your account</h1>
+                    <h1>Hacer click en el Link para validar la cuenta</h1>
                     <a href="${process.env.URL}/api/users/${user._id}/validate">Validate</a>
                     
         
@@ -59,11 +82,11 @@ const users = {
                     .catch(error => console.log(error));
 
             })
-            .catch(error => next(createError(error)));
+            .catch(error => next(createError(400, error)));
     },
-    login: (req, res, next) => {
+    login: async (req, res, next) => {
         const { email, password } = req.body;
-        User.findOne({ email })
+       await User.findOne({ email })
             .then(user => {
                 if (user) {
                     user.checkPassword(password)
