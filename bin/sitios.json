@@ -1,0 +1,1104 @@
+[
+ {
+  "sitio": "AERÓDROMO",
+  "codigo": "10-473",
+  "clave": "6644",
+  "direccion": "Cerro Tronador N° 15. Alto Paloma Sur. Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "IE 0174483 \/ 400000186063",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Aguantao",
+  "codigo": "10-659",
+  "clave": "1065",
+  "direccion": "Calle Rural Privada S\/N, Sector El Aucha",
+  "comuna": "Calbuco",
+  "numeroCliente": "400000283448",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "alerce centro",
+  "codigo": "10-556",
+  "clave": "1002\/solicitar ingreso a ATC",
+  "direccion": "Avenida los alerces sin número",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "2013-07206112\/400000264647",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Alerce Ciudad",
+  "codigo": "10-300",
+  "clave": "7756",
+  "direccion": "Camino Alerce S\/N Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "10878971",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Alerce Norte",
+  "codigo": "10-374",
+  "clave": "llave\/alarma 4662",
+  "direccion": "Fundo el arrayan Ruta 504 Km1",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "2009-112411269\/400000229140",
+  "empresaElectrica": "Saesa",
+  "potencia": "Potencia AT2A"
+ },
+ {
+  "sitio": "Alerce Reg. Sangra",
+  "codigo": "10-405",
+  "clave": "1045\/4662 clave ADT:1964",
+  "direccion": "Regimiento Sangra",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "9738",
+  "empresaElectrica": "CRELL"
+ },
+ {
+  "sitio": "Alerce sur",
+  "codigo": "10-375",
+  "clave": "llave",
+  "direccion": "Ruta V505 Sector la vara",
+  "comuna": "Puerto montt",
+  "numeroCliente": "1211432\/ 40000143598",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Alto Bonito",
+  "codigo": "10-376",
+  "clave": "1673",
+  "direccion": "Ruta a Pargua - Chinquihue Alto - Comuna de Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "2007-06122514 N°cli 400000157522",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Anequeo",
+  "codigo": "10-460",
+  "clave": "1986",
+  "direccion": "Calle las Quemas, dentro centro deportivo la estrella",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "1791\/400000163791",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Arroyo Barrancas",
+  "codigo": "10-705",
+  "clave": "1507",
+  "direccion": "Segundo corral",
+  "comuna": "cochamo",
+  "numeroCliente": "Generador ciclo automatico",
+  "empresaElectrica": "---"
+ },
+ {
+  "sitio": "Avellanal",
+  "codigo": "10-402",
+  "clave": "7320\/2109",
+  "direccion": "El Avellanal con Pargua",
+  "comuna": "Pargua",
+  "numeroCliente": "75712",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "By pass",
+  "codigo": "10-534",
+  "clave": "7911 \/ alarma Eulen",
+  "direccion": "Ruta 5 Sur, Km 1018, Puerto Montt.",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "Nº medidor 2010-0446683 400000244414",
+  "empresaElectrica": "SAESA",
+  "potencia": "potencia At2A"
+ },
+ {
+  "sitio": "CAC 1",
+  "codigo": "10i-012",
+  "clave": "s\/c",
+  "direccion": "BENAVENTE 540, PTO MONTT",
+  "comuna": "Puerto Montt",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "CAC 2",
+  "codigo": "10i-026",
+  "clave": "s\/c",
+  "direccion": "CHILLAN 80",
+  "comuna": "Puerto Montt",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Calbuco",
+  "codigo": "10-028",
+  "clave": "acceso ATC. 1976",
+  "direccion": "sector S. Rafael, Calbuco",
+  "comuna": "Calbuco",
+  "numeroCliente": "70739 sitio antiguo",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Calbuco 2",
+  "codigo": "10-481",
+  "clave": "2250",
+  "direccion": "camino Ibañez S\/N",
+  "comuna": "Calbuco",
+  "numeroCliente": "9020079",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Cañitas",
+  "codigo": "10-503",
+  "clave": "LLAVES EN CARDONAL",
+  "direccion": "Ruta a rio Frio s\/n.",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "5410",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Cardonal",
+  "codigo": "10-011",
+  "clave": "4662",
+  "direccion": "E. Ramirez S\/N",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "25583\/400000022569",
+  "empresaElectrica": "SAESA",
+  "potencia": "Tarea AT3B Potencia 156,23KW trifasico"
+ },
+ {
+  "sitio": "Carelmapu",
+  "codigo": "10-315",
+  "clave": "0695 \/ 0672 LLAVE PORTON",
+  "direccion": "Sector Cerro La Picuta, Carelmapu",
+  "comuna": "Maullín",
+  "numeroCliente": "77408A",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Carmela Carvajal",
+  "codigo": "10_515",
+  "clave": "Llave y 8010 \/ 1210",
+  "direccion": "MARATON #1100",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "935790 \/ 400000228225",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Chamiza",
+  "codigo": "10-309",
+  "clave": "2701",
+  "direccion": "Km 12 Ruta 7 Sector Piedra Azul Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "274139 \/ 400000144119",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Chin chin",
+  "codigo": "A10-002",
+  "clave": "6361\/1989",
+  "direccion": "Avenida lo Celis",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Chinquihue",
+  "codigo": "10-344",
+  "clave": "2607",
+  "direccion": "Borde Isla de Tenglo, s\/n",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "10301047 (Nº cli 400000148718)",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Chinquihue sur",
+  "codigo": "10-477",
+  "clave": "4712\/LLAVE",
+  "direccion": "chinquihue bajo lote B",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "2007-00123791(N° CLI 4-172023)",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Cº Alto Pto. Varas",
+  "codigo": "10-010",
+  "clave": "4662\/1480",
+  "direccion": "Sector Los Pinos",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "50102017",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Cochamo",
+  "codigo": "10-308",
+  "clave": "\"0606",
+  "direccion": "Localidad de Pocoihuen Bajo",
+  "comuna": "Cochamo",
+  "numeroCliente": "400000165042",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Colegual",
+  "codigo": "10-201",
+  "clave": "2604\/2104\/1304",
+  "direccion": "Sector Cologual, s\/n",
+  "comuna": "Llanquihue",
+  "numeroCliente": "3797",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Collihuinco",
+  "codigo": "10-662",
+  "clave": "Llave",
+  "direccion": "Camino público la esperanza s\/n. Sector el Repil.",
+  "comuna": "Fresia",
+  "numeroCliente": "27056 \/ 201403008019",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Colonia Copio",
+  "codigo": "10-407",
+  "clave": "2121\/2121 clave adt:1964llave en Cardonal",
+  "direccion": "Ruta 5 Sur Con La Huacha",
+  "comuna": "Frutillar",
+  "numeroCliente": "400000065902",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Combate del Toro",
+  "codigo": "10-669",
+  "clave": "2121",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Concordia",
+  "codigo": "10-668",
+  "clave": "4662",
+  "direccion": "Ruta V-120, Centinela Casma",
+  "comuna": "Casma",
+  "numeroCliente": "Medidor 140911",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Contao",
+  "codigo": "10-306",
+  "clave": "llave",
+  "direccion": "Camino Vecinal S\/N Hualaihue",
+  "comuna": "Hualaihue",
+  "numeroCliente": "4782553 O 82553A\/ 400000148532",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Dimarsa",
+  "codigo": "10-019",
+  "clave": "Cofre con clave 2019",
+  "direccion": "Urmeneta #725",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "85972A",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "El Jardin Fresia",
+  "codigo": "10-505",
+  "clave": "2102\/2002",
+  "direccion": "A 8 KM DE PARGA",
+  "comuna": "Fresia",
+  "numeroCliente": "745314\/ 16757",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "El Tepual",
+  "codigo": "10-0407",
+  "clave": "1540",
+  "direccion": "k12 ruta a los muermos camino vecinal",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "12061509 N° cli 400000174563",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ensenada",
+  "codigo": "10-039",
+  "clave": "1748",
+  "direccion": "Cerro Pichijuan, Ruta 225 Km 28, Puerto Varas",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "00228840 \/ 6729",
+  "empresaElectrica": "CRELL"
+ },
+ {
+  "sitio": "Esteros del bosque",
+  "codigo": "10-741",
+  "clave": "2016",
+  "comuna": "Tegualda",
+  "numeroCliente": "Funcionando con GG",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Frutillar",
+  "codigo": "10-020",
+  "clave": "1981\/1981",
+  "direccion": "Sector Valle Volcanes",
+  "comuna": "Frutillar",
+  "numeroCliente": "400000023211",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Frutillar Ciudad",
+  "codigo": "10-355",
+  "clave": "Llave \/ 0355",
+  "direccion": "Avenida Phillippi nº 1503",
+  "comuna": "Frutillar",
+  "numeroCliente": "660247",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Hornopiren",
+  "codigo": "10-343",
+  "clave": "llave",
+  "direccion": "Bernardo O'Higgins,s\/n",
+  "comuna": "Hualaihue",
+  "numeroCliente": "400000157012",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Iglesia Sta barbara",
+  "codigo": "10-673",
+  "clave": "1073",
+  "direccion": "Localidad Linea Solar",
+  "comuna": "Puerto Varas",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Isla Quihua",
+  "codigo": "10-660",
+  "clave": "1059",
+  "direccion": "Calle Rural V-845 S\/N, Sector San José",
+  "comuna": "Calbuco",
+  "numeroCliente": "8082238 \/ 400000283447",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Isla Tenglo",
+  "codigo": "10-035",
+  "clave": "llave\/alarma 1391",
+  "direccion": "Fundo Hoffman, camino Vecinal S\/N",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "194682 \/400000066716",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Caleta La arena",
+  "codigo": "10-470",
+  "clave": "1921",
+  "direccion": "KM 25 CARRETERA AUSTRAL, SECTOR METRI",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "1326172 \/ 400000174609",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "La Fisca",
+  "codigo": "10-016",
+  "clave": "llave\/2803\/4212\/1402",
+  "numeroCliente": "La Fisca",
+  "empresaElectrica": "Calbuco",
+  "potencia": "68179895\/400000023060"
+ },
+ {
+  "sitio": "La Goleta",
+  "codigo": "10-511",
+  "clave": "\"0567 LLAVE SHELTER",
+  "direccion": "ruta 5 camino a Pargua, parcela los aromos",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "2315030222\/400000219206 9.9kw",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Lago Chapo",
+  "codigo": "10-310",
+  "clave": "\/0606",
+  "direccion": "Lote A1, Camino Vecinal al Lago Chapo, sector el olivillo lago chapo",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "355660 \/ 400000177604",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Lagunitas",
+  "codigo": "10-347",
+  "clave": "Llave y 1073",
+  "direccion": "Camino El Tepual Lote B parcela 4 - Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "1229910 \/ 400000140168",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "playa las parcelas 2",
+  "codigo": "10-161",
+  "clave": "1016",
+  "direccion": "Ruta V-155 s\/n, Frutillar bajo",
+  "comuna": "Frutillar",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Las Quemas",
+  "codigo": "10-479",
+  "clave": "1039",
+  "direccion": "KM 16 LOS MUERMOS",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "1220001282\/400000170044",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Libertad",
+  "codigo": "10-075",
+  "clave": "llave\/ 5526",
+  "direccion": "pasaje Lo Celis S\/N Chin Chin Chico",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "27813 \/ 400000083710",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Llanquihue",
+  "codigo": "10-021",
+  "clave": "3308. Torre ATC:3415\/3019",
+  "direccion": "Avda. Pdte. Eduardo Frei S\/N",
+  "comuna": "Llanquihue",
+  "numeroCliente": "70734A",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Los Muermos",
+  "codigo": "10-053",
+  "clave": "llave en Cardonal",
+  "direccion": "Juan de Dios Díaz S\/N",
+  "comuna": "Los Muermos",
+  "numeroCliente": "202697\/400000081976",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Maichihue",
+  "codigo": "10-708",
+  "clave": "1210",
+  "direccion": "Ruta V-332. La rinconada del pato, Fresia",
+  "comuna": "Fresia",
+  "numeroCliente": "29199 (Crell)",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Mall Costanera",
+  "codigo": "10i-015",
+  "clave": "coordina Info Mall Costanera",
+  "direccion": "Dentro de Mall 5to piso",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "energia la entrega Mall",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Maullin",
+  "codigo": "10-065",
+  "clave": "2052",
+  "direccion": "Pobl. San Javier (pasaje dagoberto godoy interior)",
+  "comuna": "Maullín",
+  "numeroCliente": "227814\/400000081973",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Maullin Puelpun",
+  "codigo": "10-714",
+  "clave": "\"0714",
+  "direccion": "Sector de Cumbre del Barro, Maullin.",
+  "comuna": "Maullín",
+  "numeroCliente": "28599 (Crell)",
+  "empresaElectrica": "crell"
+ },
+ {
+  "sitio": "Nueva Braunau",
+  "codigo": "10-311",
+  "clave": "1981\/2105",
+  "direccion": "Fundo El Venado",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "2004015360",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ñapeco",
+  "codigo": "10-661",
+  "clave": "llave en Cardonal",
+  "direccion": "Camino a Cau Cau sin numero",
+  "comuna": "Fresia",
+  "numeroCliente": "73067 \/ 26937",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "PARAGUAY",
+  "codigo": "10-313",
+  "clave": "2105\/2102",
+  "direccion": "Camino a Tegualda Km 15",
+  "comuna": "Frutillar",
+  "numeroCliente": "N° SERVICIO 67233",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Paraguay Chico",
+  "codigo": "10-502",
+  "clave": "0232\/1620 \/llave",
+  "direccion": "camino a los muermos",
+  "comuna": "Los Muermos",
+  "numeroCliente": "24295739\/400000207092",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Parga",
+  "codigo": "10-009",
+  "clave": "2121\/2102",
+  "direccion": "Camino a Fresia",
+  "comuna": "Fresia",
+  "numeroCliente": "5574",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Pellines",
+  "codigo": "10-406",
+  "clave": "1987",
+  "direccion": "Fundo el Niadi, sector Los Pellines, Pto. Varas",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "6338",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Pelluco",
+  "codigo": "10-038",
+  "clave": "3254",
+  "direccion": "Fdo. Los Canelos, Pelluco Alto",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "96309 \/ 400000068317",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Pelluco Bajo",
+  "codigo": "10-474",
+  "clave": "1980",
+  "direccion": "Bellavista 1821",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "8205 \/ 400000222552",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Petrohue",
+  "codigo": "10-366",
+  "clave": "\/0606",
+  "direccion": "Hotel Petrohue S\/N",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "1452222 \/ 17102",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Peulla",
+  "codigo": "10-367",
+  "clave": "llave",
+  "direccion": "Parque Nacional Vicente Peres Rosales, Hotel Peulla",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "935847 \/ Remarcador de Hotel",
+  "empresaElectrica": "Hotel"
+ },
+ {
+  "sitio": "Playa las Parcelas",
+  "codigo": "10-665",
+  "clave": "46621122242",
+  "direccion": "Calle privada ruta V-115 s\/n Frutillar bajo",
+  "comuna": "Frutillar",
+  "numeroCliente": "PE0019509\/ 400000294822",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Playa Rio Pescado",
+  "codigo": "10W707",
+  "clave": "7072",
+  "direccion": "Rio Capitanas",
+  "comuna": "Fresia",
+  "numeroCliente": "Generador En automatico",
+  "empresaElectrica": "GG"
+ },
+ {
+  "sitio": "Pmontt Sur poniente",
+  "codigo": "10-360",
+  "clave": "Llave",
+  "direccion": "Diego de Almagro Norte nº 1540",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "520001355",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Poblacion Chiloe",
+  "codigo": "10-354",
+  "clave": "1210 \/ 1210",
+  "direccion": "Pasaje Chacabuco, nº 12",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "1229909 \/ 10876041",
+  "empresaElectrica": "Saesa",
+  "potencia": "Servicio BT1 con potencia 9.41 KW"
+ },
+ {
+  "sitio": "Poblacion Kennedy",
+  "codigo": "10-353",
+  "clave": "Llave y 4662\/1053",
+  "direccion": "PARAGUAY S\/N, Vicente perez Rosales 424, Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "31923818 \/ 400000228034",
+  "empresaElectrica": "Saesa",
+  "potencia": "Potencia 9.9KW"
+ },
+ {
+  "sitio": "Pto Chico",
+  "codigo": "10-496",
+  "clave": "2536\/",
+  "direccion": "colo colo 1380",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "9004789 \/ 400000194462",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Pto Varas Centro",
+  "codigo": "10-070",
+  "clave": "Conserje",
+  "direccion": "San pedro esquina del salvador",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "9020279A \/ 400000204571",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Pto. Montt Alto",
+  "codigo": "10-060",
+  "clave": "Llave y 2604",
+  "direccion": "Av Ibanez 490 Pto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "2003041150\/400000111930",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Pto. Montt Industrial",
+  "codigo": "10-359",
+  "clave": "Llave y 2376\/1061",
+  "direccion": "CALLE BIMA 133, PTO MONTT",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "400000158479",
+  "empresaElectrica": "Saesa",
+  "potencia": "Potencia"
+ },
+ {
+  "sitio": "Pto. Montt Mall",
+  "codigo": "10-061",
+  "clave": "Llave",
+  "direccion": "San Martin 200",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "77828220",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Pto. Varas Ciudad",
+  "codigo": "10-033",
+  "clave": "llave\/0403",
+  "direccion": "Maipú N°1169",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "227800A-227800C-227800D\/40000094571",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Puelo",
+  "codigo": "10-307",
+  "clave": "7286",
+  "direccion": "Sector Rio Puelo",
+  "comuna": "Cochamo",
+  "numeroCliente": "058999167 0 167A \/ 400000148720",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Puelpun",
+  "codigo": "10-671",
+  "clave": "2015",
+  "direccion": "Puelpun , Maullin",
+  "comuna": "Maullín",
+  "numeroCliente": "numero cliente SAESA 10990090",
+  "empresaElectrica": "saesa"
+ },
+ {
+  "sitio": "Puerto Montt HDA",
+  "codigo": "10-468",
+  "clave": "Llave",
+  "direccion": "HOTEL DIEGO DE ALMAGRO",
+  "comuna": "Puerto Montt",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Puerto Montt salida poniente",
+  "codigo": "10-573",
+  "clave": "Llave EN CARDONAL",
+  "direccion": "Ruta el Tepual S\/N KM 3 lagunitas Cuidad Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "12205150 \/ 400000269355",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Puerto Montt sur",
+  "codigo": "10-314",
+  "clave": "1210",
+  "direccion": "Volcan villarrica s\/n, puerto montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "935793 \/ 400000226910",
+  "empresaElectrica": "Saesa",
+  "potencia": "Servicio 9,9KW"
+ },
+ {
+  "sitio": "Quenuir",
+  "codigo": "10-670",
+  "clave": "LLAVES EN CARDONAL",
+  "direccion": "Calle rural privada, junto a ruta V-636 (Sector Cululil)",
+  "comuna": "Los Muermos",
+  "numeroCliente": "400000289286",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Puerto Montt Terminal de Buses",
+  "codigo": "10-383",
+  "clave": "LLAVES EN CARDONAL",
+  "direccion": "Diego Portales 1000, edificio España, Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "520009106 \/\/ 400000157066",
+  "empresaElectrica": "saesa"
+ },
+ {
+  "sitio": "Ralun",
+  "codigo": "10-493",
+  "clave": "1748",
+  "direccion": "Sector Los Ladrillos",
+  "comuna": "Cochamo",
+  "numeroCliente": "2855A \/ 400000218677",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Rolecha",
+  "codigo": "10W732",
+  "clave": ".0420",
+  "direccion": "Rolecha interior",
+  "comuna": "Hualaihue",
+  "numeroCliente": "2015-11051454 11001245",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Rta. Alerce Interior 2",
+  "codigo": "10-332",
+  "clave": "1980",
+  "direccion": "Camino El Chingue Correntoso, s\/n",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "7007620 \/ 400000153104",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ruta 5 Camino a Pargua",
+  "codigo": "10-529",
+  "clave": "2310\/1029",
+  "direccion": "ruta 5 km 36, hacia pargua",
+  "comuna": "Calbuco",
+  "numeroCliente": "2009112410237\/ 400000238167",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ruta a Casma",
+  "codigo": "10-157",
+  "clave": "2092\/4662",
+  "comuna": "Casma",
+  "numeroCliente": "Medidor 1409774",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ruta Alerce Pto Varas",
+  "codigo": "10-379",
+  "clave": "clave \/4662\/9142 - llave\/alarma 1234",
+  "direccion": "Fundo La laja camino Alerce ruta v-505 KM 3,6",
+  "comuna": "Puerto Varas",
+  "numeroCliente": "A206-0188858 \/ 400000228279",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Seminario",
+  "codigo": "10-551",
+  "clave": "Cofre 1234",
+  "direccion": "Seminario 252, Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "107947\/400000253681",
+  "empresaElectrica": "Saesa",
+  "potencia": "Potencia 9,2KW"
+ },
+ {
+  "sitio": "Tegualda",
+  "codigo": "10-480",
+  "clave": "3398\/4662",
+  "direccion": "SECTOR TEGUALDA",
+  "comuna": "Fresia",
+  "numeroCliente": "medidor N° 1220001186",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Toritos de cascada",
+  "codigo": "10-706",
+  "clave": "7062",
+  "direccion": "sector valle rio ventisqueros",
+  "comuna": "cochamo",
+  "numeroCliente": "generador ciclo manual (baterías malas)",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "Trapen",
+  "codigo": "10-404",
+  "clave": "2362\/2363 ADT:1964",
+  "direccion": "Trapen fundo Los Alamos",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "92304\/ 400000065105",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "valle ventisqueros",
+  "codigo": "10-704",
+  "clave": "7041",
+  "direccion": "primer corral",
+  "comuna": "cochamo",
+  "numeroCliente": "Generador ciclo automatico",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "VTR",
+  "codigo": "10-043",
+  "clave": "1675\/cofre",
+  "direccion": "Pto Montt CNT",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "400000106773",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Calbuco San Antonio",
+  "codigo": "10-695",
+  "clave": ".0695.",
+  "direccion": "San Antonio, sector san Jose, Calbuco",
+  "comuna": "Calbuco",
+  "numeroCliente": "400000303551\/7017093",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Salmon Aerial",
+  "codigo": "10-730",
+  "clave": "7302",
+  "direccion": "sector la Poza hualaihue",
+  "comuna": "hualaihue",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Ayacara",
+  "codigo": "10w735",
+  "clave": "7351",
+  "direccion": "ayacara",
+  "numeroCliente": "Grupo generador",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "Llico",
+  "codigo": "10-170",
+  "clave": "1210",
+  "direccion": "Sector Llico Alto,Radio Rural",
+  "comuna": "Fresia",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "caleta san jose",
+  "codigo": "10W701",
+  "clave": "3107\/ cofre 701B",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "Barcaza Pincoya",
+  "codigo": "10-709",
+  "clave": "2604",
+  "direccion": "ruta a Llico bajo km",
+  "comuna": "Fresia",
+  "numeroCliente": "Grupo generador",
+  "empresaElectrica": "Lo cañas 225825055"
+ },
+ {
+  "sitio": "Bodesur",
+  "codigo": "10-610",
+  "clave": "2017",
+  "comuna": "puerto montt",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Estero la Huacha",
+  "codigo": "10_667",
+  "clave": "2604\/2104",
+  "direccion": "Hijuela N° 2 Fundo Buenos Aires",
+  "comuna": "Frutillar",
+  "numeroCliente": "27167",
+  "empresaElectrica": "crell"
+ },
+ {
+  "sitio": "Caleta Buill",
+  "codigo": "10_725",
+  "clave": "7251",
+  "direccion": "caleta buill, Sector Buil S\/N; ayacara",
+  "comuna": "Chaiten",
+  "numeroCliente": "medidor PE0021240\/\/ N° Cli 400000336487",
+  "empresaElectrica": "saesa"
+ },
+ {
+  "sitio": "Rio Cañal",
+  "codigo": "10-663",
+  "clave": "2105",
+  "direccion": "Ruta a fresia km5",
+  "comuna": "Fresia",
+  "numeroCliente": "2014-0540183 \/ 27033",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Bajo Llico",
+  "codigo": "10-712",
+  "clave": "LLAVES 1421",
+  "direccion": "camino yerbas buenas S\/n",
+  "comuna": "Fresia",
+  "numeroCliente": "GRUPO GENERADOR",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "Puelpun",
+  "codigo": "10-671",
+  "clave": "2015",
+  "direccion": "sector rural puelpun, camino olmopulli.",
+  "comuna": "Maullin",
+  "empresaElectrica": "saesa"
+ },
+ {
+  "sitio": "Camino a Hua-huar",
+  "codigo": "10-711",
+  "clave": "1071",
+  "direccion": "Predio Huar Huar, en Zona Rural",
+  "comuna": "Los Muermos",
+  "numeroCliente": "27744 Crell",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Vertientes Naturales",
+  "codigo": "10-710",
+  "clave": "\"0710\"",
+  "direccion": "Hua Huar-Miramar-El Pescado",
+  "comuna": "Los Muermos",
+  "numeroCliente": "27475 Crell",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Rincon Animas",
+  "codigo": "10-713",
+  "clave": "\"0713\"",
+  "direccion": "rincona animas, los muermos",
+  "comuna": "Los Muermos",
+  "numeroCliente": "GRUPO GENERADOR MODO AUTO",
+  "empresaElectrica": "GG Fijo"
+ },
+ {
+  "sitio": "Panitao Bajo",
+  "codigo": "10-171",
+  "clave": "1071",
+  "direccion": "SECTOR PANITAO",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "400000303548",
+  "empresaElectrica": "saesa"
+ },
+ {
+  "sitio": "Fresia Norte",
+  "codigo": "10-664",
+  "clave": "2002",
+  "direccion": "Sector Monte verde s\/n",
+  "comuna": "Fresia",
+  "numeroCliente": "servicio 19058",
+  "empresaElectrica": "Crell"
+ },
+ {
+  "sitio": "Oficina Puente Chacao",
+  "codigo": "10-217",
+  "clave": "sin candado, llave shelter huawei",
+  "direccion": "camino astillero, Pargua",
+  "comuna": "Calbuco",
+  "numeroCliente": "Energia proporciona Empresa Puente Chacao",
+  "empresaElectrica": "Contacto 2",
+  "potencia": "DANIEL KO"
+ },
+ {
+  "sitio": "Nalcas del manzano",
+  "codigo": "10-729",
+  "clave": "Candado con clave Torres Unidas",
+  "direccion": "caleta Pichicolo, sector la puntilla",
+  "comuna": "Hornopiren",
+  "numeroCliente": "NUEVO Cod: 11012018 a Nombre de Torres Unidas",
+  "empresaElectrica": "Saesa"
+ },
+ {
+  "sitio": "Embarcadero Pargua",
+  "codigo": "10-228",
+  "clave": "1308 TTUU (torres unidas)",
+  "direccion": "Parcela las bandurrias S\/N antena Movistar, Pargua Calbuco",
+  "comuna": "Calbuco",
+  "numeroCliente": "contacto Liliana Cardenas f:997156493",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "parque tantauco",
+  "codigo": "10-696",
+  "clave": "1707",
+  "comuna": "Chiloe",
+  "empresaElectrica": "GG FIJO"
+ },
+ {
+  "sitio": "Coihuin RPA",
+  "codigo": "10-681",
+  "clave": "*0681",
+  "direccion": "Motel Chamiza Sitio Entel colocalizado",
+  "comuna": "Puerto Montt"
+ },
+ {
+  "sitio": "Parcelas Alto Bonito",
+  "codigo": "10-639",
+  "clave": "1065 colocalizado Entel",
+  "direccion": "Sector Alto Bonito, loteo 1 cardonal bajo.",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "medidor 415878 N° cli 400000352072",
+  "empresaElectrica": "SAESA"
+ },
+ {
+  "sitio": "Puerto Montt costanera(Mirasol)",
+  "codigo": "10-804",
+  "clave": "1105\/ 1084 (Cofre)",
+  "direccion": "Pasaje central 44, Puerto Montt",
+  "comuna": "Puerto Montt",
+  "numeroCliente": "400000367953\/Medidor 51643824",
+  "empresaElectrica": "Saesa",
+  "potencia": "sitio ATC"
+ },
+ {
+  "sitio": "Puerto Montt Bypass",
+  "codigo": "10-534",
+  "clave": "7911"
+ },
+ {
+  "sitio": "Estero Huequi",
+  "codigo": "10-728",
+  "numeroCliente": "400000319047"
+ },
+ {
+  "sitio": "Ayacara",
+  "codigo": "10-735",
+  "numeroCliente": "400000319041"
+ },
+ {
+  "sitio": "Canal Coldita",
+  "codigo": "10-697",
+  "clave": "6971 o 6972"
+ },
+ {
+  "sitio": "Isla Auteni",
+  "codigo": "10_726",
+  "clave": ":0726"
+ },
+ {
+  "sitio": "Rio Chamiza",
+  "codigo": "10_672"
+ }
+]

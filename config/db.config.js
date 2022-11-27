@@ -1,14 +1,11 @@
 const mongoose = require('mongoose');
 
-const MongoMemoryServer = require('mongodb-memory-server').MongoMemoryServer;
-
-MongoMemoryServer.create()
-.then((mongoServer) => mongoose.connect(mongoServer.getUri(),{
+mongoose.connect("mongodb://192.168.0.7:27017/Claroapp", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    dbName: 'test'
-}))
-.then(() => console.info('Connected to MongoDB'))
+   
+})
+.then(() => console.log("DB is connected"))
 .catch((error) => {
     console.error(error)
     process.exit(1);
